@@ -105,3 +105,33 @@ body {
 .wrapper .btn.btn_2:hover:after{
   top: 20px;
 }
+.wrapper .btn.btn_3:before{
+  content: "";
+  position: absolute;
+  top: -60px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffd324;
+  transform: skewY(10deg);
+  transition: all 0.5s ease;
+}
+
+.wrapper .btn.btn_3:after{
+  content: "";
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffd324;
+  transform: skewY(10deg);
+  transition: all 0.5s ease;
+}
+
+.wrapper .btn.btn_3:hover:before{
+  top: -20px;
+}
+.wrapper .btn.btn_3:hover:after{
+  top: 20px;
+}
