@@ -1,2 +1,8 @@
-# sedatcorte.github.io
-kişisel site
+# sedatcorte.com
+sedatcorte.com
+sedatcorte.com
+sedatcorte.com
+sedatcorte.com
+sedatcorte.com
+sedatcorte.com
+sedatcorte.com
